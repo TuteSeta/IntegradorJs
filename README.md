@@ -48,7 +48,6 @@ Para más información sobre cómo funciona cada parte del código, puedes revis
 
 ¡Gracias por probar este proyecto! 😊
 
-Tambien puedes acceder a traves del siguiente link: 
 
 
 
